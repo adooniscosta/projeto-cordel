@@ -58,7 +58,8 @@ header > p{
 
 .imagem1 > p{
     background-color: rgba(0, 0, 0, 0.418);
-    width: 600px;
+    max-width: 600px;
+   min-width: 250px;
     color: white;
     margin-top: 50px;
     padding-left: 15px;
@@ -79,7 +80,8 @@ header > p{
 
 .imagem2 > p{
     background-color: rgba(0, 0, 0, 0.397);
-    width: 600px;
+    max-width: 600px;
+    min-width: 250px;
     color: white;
     margin-top: 50px;
     padding-left: 15px;
